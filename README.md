@@ -3,3 +3,18 @@ Diabetes is a metabolic disease that causes high blood sugar, when the body canâ
 
 # Description about the data
 A sample of over 37K social media posts from a variety of sources related to CGMs as Diabetes Continuous Glucose Monitoring â€“ Data Export.xlsx. Each row of the Excel file consists of a field of text called Sound Bite Text, along with a variety of other more structured metadata fields such as the source and when the Sound Bite Text field were extracted.
+
+#Project objectives 
+
+1. General CGM analysis:
+  a. What are patient expectations of CGMs? What are patient knowledge
+gaps with CGMs?
+  b. What benefits are most important to diabetes patients?
+  c. What unmet needs do patients have related to CGMs (something patients want but are not getting)?
+2. CGM Product-related analysis:
+  a. What are praises & complaints and features of Dexcom & Freestyle Libre?
+  b. What product features are being talked about?
+  c. How do consumer opinions of Dexcom and Freestyle Libre compare?
+  d. What is the overall sentiment regarding the two products?
+  e. Based on your analysis, which one would you recommend?
+  f. What would you tell each of these brands to improve?
